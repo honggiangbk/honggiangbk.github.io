@@ -124,6 +124,74 @@ https://livecdn.fptplay.net/hda/htv9hd_hls.smil/playlist.m3u8
 
 
 
+HTVC,HTVC Phim HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png
+https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/playlist.m3u8
+
+HTVC,HTVC Du lịch HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg
+https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/playlist.m3u8
+
+HTVC,HTVC Gia đình HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_156420342184.jpg
+https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/playlist.m3u8
+
+HTVC,HTVC Phụ nữ HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_150055168062.jpg
+https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/playlist.m3u8
+
+HTVC,HTVC Plus HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png
+https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/playlist.m3u8
+
+HTVC,HTVC Ca nhạc HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-ca-nhac_159175079096.png
+https://livecdn.fptplay.net/sdb/htvcmusic_hls.smil/playlist.m3u8
+
+HTVC,HTVC Thuần Việt HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg
+https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/playlist.m3u8
+
+HTVC,HTVC Thuần Việt
+https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-sd_150055171588.jpg
+https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/playlist.m3u8
+
+HTVC,HTVC Thể thao HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_156455550438.jpg
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/playlist.m3u8
+
+
+
+Quốc tế,KBS
+https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+
+Quốc tế,NHK
+https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png
+https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
+
+Quốc tế,DW
+https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg
+https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
+
+Quốc tế,Arirang
+https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png
+https://livecdn.fptplay.net/world/arirang_hls.smil/playlist.m3u8
+
+Quốc tế,Channel NewsAsia
+https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_151495143843.png
+https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
+
+Quốc tế,France 24
+https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_151539541517.png
+https://livecdn.fptplay.net/world/france24_hls.smil/playlist.m3u8
+
+Quốc tế,TV5 Monde
+https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png
+https://livecdn.fptplay.net/world/tv5_hls.smil/playlist.m3u8
+
+
+
 Hà Nội,Hà Nội 1 HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/playlist.m3u8
