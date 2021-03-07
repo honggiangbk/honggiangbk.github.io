@@ -1,0 +1,59 @@
+VTV,VTV1 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg
+https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/playlist.m3u8
+
+VTV,VTV2 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg
+https://livecdn.fptplay.net/hda/vtv2_2000.stream/playlist.m3u8
+
+VTV,VTV3 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg
+https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/playlist.m3u8
+
+VTV,VTV4 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg
+https://livecdn.fptplay.net/hda/vtv4_hls.smil/playlist.m3u8
+
+VTV,VTV5 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_150173503028.jpg
+https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/playlist.m3u8
+
+VTV,VTV6 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/playlist.m3u8
+
+VTV,VTV7 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_158530348557.png
+https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/playlist.m3u8
+
+VTV,VTV8 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg
+https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/playlist.m3u8
+
+VTV,VTV9 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9_150898738134.jpg
+https://livecdn.fptplay.net/hda/vtv9_hls.smil/playlist.m3u8
+
+HTV,HTV1 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
+
+HTV,HTV2 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg
+https://livecdn.fptplay.net/hda/htv2hd_hls.smil/playlist.m3u8
+
+HTV,HTV3 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htv3_145672766359.jpg
+https://livecdn.fptplay.net/sdb/htv3_2000.stream/playlist.m3u8
+
+HTV,HTV4 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htv4_145672776087.jpg
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
+
+HTV,HTV7 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htv7-hd_150225274372.jpg
+https://livecdn.fptplay.net/hda/htv7hd_hls.smil/playlist.m3u8
+
+HTV,HTV9 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htv9-hd_146841310555.jpg
+https://livecdn.fptplay.net/hda/htv9hd_hls.smil/playlist.m3u8
