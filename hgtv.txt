@@ -192,6 +192,136 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/playlist.m3u8
 
 
 
+Quốc tế 2,Blue Ant Entertainment
+https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-entertainment_154850587839.jpg
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
+
+Quốc tế 2,Blue Ant Extreme
+https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-extreme_154850781484.jpg
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
+
+Quốc tế 2,KIX
+https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
+
+Quốc tế 2,AFN
+https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png
+https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
+
+Quốc tế 2,Da Vinci
+https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png
+https://livecdn.fptplay.net/world/davincihd_hls.smil/playlist.m3u8
+
+Quốc tế 2,Outdoor
+https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
+
+
+
+Quốc tế 3,Fox Sports HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg
+
+Quốc tế 3,Fox Sports 2
+https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg
+
+Quốc tế 3,Fox Sports 3
+https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png
+
+Quốc tế 3,Fox Movies
+https://static.fptplay.net/static/img/share/channels/icon_channel_fox-movies_152238665778.png
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
+
+Quốc tế 3,Fox Family Movies
+https://static.fptplay.net/static/img/share/channels/icon_channel_fox-family-movies_155013312413.jpg
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
+
+Quốc tế 3,AXN
+https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png
+https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/playlist.m3u8
+
+Quốc tế 3,Warner Bros
+https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png
+https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/playlist.m3u8
+
+Quốc tế 3,Cinema World
+https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png
+https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/playlist.m3u8
+
+Quốc tế 3,Fox Life
+https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
+
+Quốc tế 3,Fox HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_fox-hd_152238767588.png
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
+
+Quốc tế 3,Fashion TV
+https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png
+
+Quốc tế 3,[V]HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_channel-v-hd_152238787152.png
+
+Quốc tế 3,Cartoon Network
+https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png
+https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/playlist.m3u8
+
+Quốc tế 3,Animax
+https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png
+
+Quốc tế 3,Boomerang
+https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
+
+Quốc tế 3,Baby First
+https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8
+
+Quốc tế 3,CBeebies
+https://static.fptplay.net/static/img/share/channels/icon_channel_cbeebies_15233280024.png
+
+Quốc tế 3,CNN
+https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_146581309815.png
+
+Quốc tế 3,BBC Earth
+https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/playlist.m3u8
+
+Quốc tế 3,BBC News
+https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_156325644439.png
+
+Quốc tế 3,BBC Lifestyle
+https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+
+Quốc tế 3,Bloomberg
+https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png
+
+Quốc tế 3,Australia Plus
+https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png
+https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/playlist.m3u8
+
+Quốc tế 3,National Geographic HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_national-geographic-hd_156455553777.jpg
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
+
+Quốc tế 3,Discovery
+https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
+
+Quốc tế 3,Discovery Asia
+https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
+
+Quốc tế 3,Animal Planet
+https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
+
+Quốc tế 3,TLC
+https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
+
+
+
 Hà Nội,Hà Nội 1 HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/playlist.m3u8
