@@ -199,3 +199,331 @@ https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/playlist.m3u8
 Hà Nội,Hà Nội 2 HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/playlist.m3u8
+
+
+
+Địa phương,SCTV2 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_sctv-2_155470783649.png
+https://livecdn.fptplay.net/sda/sctv2_hls.smil/playlist.m3u8
+
+Địa phương,An Giang HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png
+https://livecdn.fptplay.net/sda/angiang_1000.stream/playlist.m3u8
+
+Địa phương,Bà Rịa Vũng Tàu HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_156455527078.jpg
+https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/playlist.m3u8
+
+Địa phương,Bắc Giang HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_bac-giang_15700007937.jpg
+https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/playlist.m3u8
+
+Địa phương,Bạc Liêu HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_156455519874.jpg
+https://livecdn.fptplay.net/sdc/baclieu_hls.smil/playlist.m3u8
+
+Địa phương,Bắc Ninh HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_bac-ninh_156455524327.jpg
+https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
+
+Địa phương,Bến Tre HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/playlist.m3u8
+
+Địa phương,Bình Định HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_binh-dinh_145672697062.jpg
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/playlist.m3u8
+
+Địa phương,Bình Dương 1 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_156455530625.jpg
+https://livecdn.fptplay.net/hda/btv1_hls.smil/playlist.m3u8
+
+Địa phương,Bình Dương 2 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-2_156455531275.jpg
+https://livecdn.fptplay.net/hda/btv2_hls.smil/playlist.m3u8
+
+Địa phương,Bình Dương 4 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-4-hd_146312577314.png
+https://livecdn.fptplay.net/hda/btv4hd_hls.smil/playlist.m3u8
+
+Địa phương,BTV6 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_btv6_158573005113.png
+https://livecdn.fptplay.net/sda/btv6_hls.smil/playlist.m3u8
+
+Địa phương,BTV9 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_btv9_159662306193.jpg
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/playlist.m3u8
+
+Địa phương,BTV11 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_btv-11_158459383676.png
+https://livecdn.fptplay.net/sda/btv11_hls.smil/playlist.m3u8
+
+Địa phương,NCM HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_ncm_145578899016.png
+https://livecdn.fptplay.net/sda/ncm_hls.smil/playlist.m3u8
+
+Địa phương,Bình Phước 1 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg
+https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/playlist.m3u8
+
+Địa phương,Bình Phước 2 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/playlist.m3u8
+
+Địa phương,Bình Thuận HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_binh-thuan_145880841033.jpg
+https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/playlist.m3u8
+
+Địa phương,Cà Mau HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg
+https://livecdn.fptplay.net/sdc/camau_hls.smil/playlist.m3u8
+
+Địa phương,Cần Thơ HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_can-tho_145672728114.jpg
+https://livecdn.fptplay.net/sda/cantho_hls.smil/playlist.m3u8
+
+Địa phương,Cao Bằng HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_cao-bang_149283044994.jpg
+https://livecdn.fptplay.net/sda/caobang_1000.stream/playlist.m3u8
+
+Địa phương,Đà Nẵng 1 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-1_156455534553.jpg
+https://livecdn.fptplay.net/sdc/danang1_hls.smil/playlist.m3u8
+
+Địa phương,Đà Nẵng 2 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg
+https://livecdn.fptplay.net/sdc/danang2_hls.smil/playlist.m3u8
+
+Địa phương,Đak Lak HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_dak-lak_145880969366.jpg
+https://livecdn.fptplay.net/sdc/daklak_hls.smil/playlist.m3u8
+
+Địa phương,Điện Biên HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_156455538188.jpg
+https://livecdn.fptplay.net/sdc/dienbien_hls.smil/playlist.m3u8
+
+Địa phương,Đồng Nai 1 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-1_156455544303.jpg
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/playlist.m3u8
+
+Địa phương,Đồng Nai 2 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-2_156455545067.jpg
+ttps://livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
+
+Địa phương,Đồng Tháp HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg
+https://livecdn.fptplay.net/sdc/dongthap_hls.smil/playlist.m3u8
+
+Địa phương,Gia Lai HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_gia-lai_145673242156.jpg
+https://livecdn.fptplay.net/sda/gialai_hls.smil/playlist.m3u8
+
+Địa phương,Hà Giang HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/playlist.m3u8
+
+Địa phương,Hà Nam HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_ha-nam_15323304952.jpg
+https://livecdn.fptplay.net/sda/hanam_hls.smil/playlist.m3u8
+
+Địa phương,Hà Tĩnh HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_ha-tinh_145881054027.jpg
+https://livecdn.fptplay.net/sdc/hatinh_hls.smil/playlist.m3u8
+
+Địa phương,Hải Dương HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_hai-duong_145880941298.jpg
+https://livecdn.fptplay.net/sdc/haiduong_hls.smil/playlist.m3u8
+
+Địa phương,Hải Phòng HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg
+https://livecdn.fptplay.net/sdc/haiphong_hls.smil/playlist.m3u8
+
+Địa phương,Hậu Giang HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_hau-giang_145673319528.jpg
+https://livecdn.fptplay.net/sda/haugiang_hls.smil/playlist.m3u8
+
+Địa phương,Hòa Bình HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_hoa-binh_145681701391.jpg
+https://livecdn.fptplay.net/sda/hoabinh_hls.smil/playlist.m3u8
+
+Địa phương,Hưng Yên HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_hung-yen_145880734258.jpg
+https://livecdn.fptplay.net/sdc/hungyen_2000.stream/playlist.m3u8
+
+Địa phương,Khánh Hòa HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_khanh-hoa_145672791198.jpg
+https://livecdn.fptplay.net/sda/khanhhoa_hls.smil/playlist.m3u8
+
+Địa phương,Kiên Giang HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_kien-giang_145880815375.jpg
+https://livecdn.fptplay.net/sda/kiengiang_hls.smil/playlist.m3u8
+
+Địa phương,Kon Tum HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_kon-tum_145881138908.jpg
+https://livecdn.fptplay.net/sdc/kontum_hls.smil/playlist.m3u8
+
+Địa phương,Lâm Đồng HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_lam-dong_145880770362.jpg
+https://livecdn.fptplay.net/sdc/lamdong_hls.smil/playlist.m3u8
+
+Địa phương,Lai Châu HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_lai-chau_159849986283.png
+https://livecdn.fptplay.net/sdc/laichau_hls.smil/playlist.m3u8
+
+Địa phương,Lạng Sơn HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_lang-son_145880895824.jpg
+https://livecdn.fptplay.net/sdc/langson_hls.smil/playlist.m3u8
+
+Địa phương,Lào Cai HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_lao-cai_145880951162.jpg
+https://livecdn.fptplay.net/sdc/laocai_hls.smil/playlist.m3u8
+
+Địa phương,Long An HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_long-an_145880901975.jpg
+https://livecdn.fptplay.net/sdc/longan_hls.smil/playlist.m3u8
+
+Địa phương,Nam Định HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_nam-dinh_145880959527.jpg
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/playlist.m3u8
+
+Địa phương,Nghệ An HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_15426016909.jpg
+https://livecdn.fptplay.net/sda/nghean_hls.smil/playlist.m3u8
+
+Địa phương,Ninh Bình HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-binh_145672792288.jpg
+https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/playlist.m3u8
+
+Địa phương,Ninh Thuận HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-thuan_154260171915.jpg
+https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/playlist.m3u8
+
+Địa phương,Phú Thọ HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_phu-tho_14588083472.jpg
+https://livecdn.fptplay.net/sda/phutho_hls.smil/playlist.m3u8
+
+Địa phương,Phú Yên HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_phu-yen_151298361962.png
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/playlist.m3u8
+
+Địa phương,Quảng Bình HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg
+https://livecdn.fptplay.net/sda/quangbinh_hls.smil/playlist.m3u8
+
+Địa phương,Quảng Nam HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_quang-nam_145880919575.jpg
+https://livecdn.fptplay.net/sdc/quangnam_hls.smil/playlist.m3u8
+
+Địa phương,Quảng Ngãi HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ngai_146362646218.jpg
+https://livecdn.fptplay.net/sda/quangngai_hls.smil/playlist.m3u8
+
+Địa phương,Quảng Ninh 1 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-1_145672976024.jpg
+https://livecdn.fptplay.net/sda/quangninh1_hls.smil/playlist.m3u8
+
+Địa phương,Quảng Ninh 3 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-3_145672977406.jpg
+https://livecdn.fptplay.net/sda/quangninh3_hls.smil/playlist.m3u8
+
+Địa phương,Quảng Trị HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_quang-tri_150339367566.png
+https://livecdn.fptplay.net/sdc/quangtri_hls.smil/playlist.m3u8
+
+Địa phương,Sóc Trăng HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_soc-trang_153233048284.jpg
+https://livecdn.fptplay.net/sda/soctrang_hls.smil/playlist.m3u8
+
+Địa phương,Sơn La HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_son-la_145881052785.jpg
+https://livecdn.fptplay.net/sdc/sonla_hls.smil/playlist.m3u8
+
+Địa phương,Tây Ninh HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_tay-ninh-hd_15323305071.jpg
+https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/playlist.m3u8
+
+Địa phương,Thái Bình HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg
+https://livecdn.fptplay.net/sda/thaibinh_hls.smil/playlist.m3u8
+
+Địa phương,Thái Nguyên HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_thai-nguyen_156455574521.jpg
+https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/playlist.m3u8
+
+Địa phương,Thanh Hóa HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg
+https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/playlist.m3u8
+
+Địa phương,Thừa Thiên Huế HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg
+https://livecdn.fptplay.net/sdc/hue_hls.smil/playlist.m3u8
+
+Địa phương,Tiền Giang HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_tien-giang_145734128144.jpg
+https://livecdn.fptplay.net/sda/tiengiang_hls.smil/playlist.m3u8
+
+Địa phương,Trà Vinh HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_156455583815.jpg
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/playlist.m3u8
+
+Địa phương,Tuyên Quang HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_tuyen-quang_145673727398.jpg
+https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/playlist.m3u8
+
+Địa phương,Vĩnh Long 1 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg
+https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/playlist.m3u8
+
+Địa phương,Vĩnh Long 2 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg
+https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/playlist.m3u8
+
+Địa phương,Vĩnh Long 3 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_156455588941.jpg
+https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/playlist.m3u8
+
+Địa phương,Vĩnh Long 4 HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png
+https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/playlist.m3u8
+
+Địa phương,Vĩnh Phúc HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg
+https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/playlist.m3u8
+
+Địa phương,Yên Bái HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg
+https://livecdn.fptplay.net/sdc/yenbai_hls.smil/playlist.m3u8
+
+
+
+Khác,ANTV HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg
+https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/playlist.m3u8
+
+Khác,FNBC HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg
+https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/playlist.m3u8
+
+Khác,Nhân dân HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
+
+Khác,Quốc hội HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png
+https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/playlist.m3u8
+
+Khác,QPVN HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg
+https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/playlist.m3u8
+
+Khác,TTXVN HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg
+https://livecdn.fptplay.net/sda/ttxvn_hls.smil/playlist.m3u8
+
+Khác,VOV HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg
+https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8
+
+Khác,VTV Hyundai HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg
+ttps://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/playlist.m3u8
