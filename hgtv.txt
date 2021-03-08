@@ -166,7 +166,7 @@ Trong nước,ANTV HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg
 https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/playlist.m3u8
 
-Trong nước,FNBC HD
+Trong nước,FBNC HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/playlist.m3u8
 
@@ -453,7 +453,7 @@ https://livecdn.fptplay.net/sdc/danang1_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg
 https://livecdn.fptplay.net/sdc/danang2_hls.smil/playlist.m3u8
 
-Địa phương,Đak Lak HD
+Địa phương,Đắk Lắk HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_dak-lak_145880969366.jpg
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/playlist.m3u8
 
