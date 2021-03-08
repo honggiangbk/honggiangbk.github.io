@@ -34,6 +34,10 @@ VTV,VTV9 HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9_150898738134.jpg
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/playlist.m3u8
 
+VTV,VTV Hyundai HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg
+https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/playlist.m3u8
+
 
 
 VTC,VTC1 HD
@@ -193,10 +197,6 @@ https://livecdn.fptplay.net/sda/ttxvn_hls.smil/playlist.m3u8
 Trong nước,VOV HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8
-
-Trong nước,VTV Hyundai HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg
-https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/playlist.m3u8
 
 
 
