@@ -122,6 +122,10 @@ HTV,HTV9 HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_htv9-hd_146841310555.jpg
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/playlist.m3u8
 
+HTVC,HTVC COOP HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_htv-coop_153320008724.png
+https://livecdn.fptplay.net/sda/htvcoop_hls.smil/chunklist_b2500000.m3u8
+
 
 
 HTVC,HTVC Phim HD
@@ -159,6 +163,40 @@ https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/playlist.m3u8
 HTVC,HTVC Thể thao HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_156455550438.jpg
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/playlist.m3u8
+
+
+
+Khác,ANTV HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg
+https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/playlist.m3u8
+
+Khác,FNBC HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg
+https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/playlist.m3u8
+
+Khác,Nhân dân HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
+
+Khác,Quốc hội HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png
+https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/playlist.m3u8
+
+Khác,QPVN HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg
+https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/playlist.m3u8
+
+Khác,TTXVN HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg
+https://livecdn.fptplay.net/sda/ttxvn_hls.smil/playlist.m3u8
+
+Khác,VOV HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg
+https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8
+
+Khác,VTV Hyundai HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg
+ttps://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/playlist.m3u8
 
 
 
@@ -623,37 +661,3 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/playlist.m3u8
 Địa phương,Yên Bái HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/playlist.m3u8
-
-
-
-Khác,ANTV HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg
-https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/playlist.m3u8
-
-Khác,FNBC HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg
-https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/playlist.m3u8
-
-Khác,Nhân dân HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg
-https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
-
-Khác,Quốc hội HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png
-https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/playlist.m3u8
-
-Khác,QPVN HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg
-https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/playlist.m3u8
-
-Khác,TTXVN HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg
-https://livecdn.fptplay.net/sda/ttxvn_hls.smil/playlist.m3u8
-
-Khác,VOV HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg
-https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8
-
-Khác,VTV Hyundai HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg
-ttps://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/playlist.m3u8
