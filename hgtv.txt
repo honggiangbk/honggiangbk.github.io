@@ -34,10 +34,6 @@ VTV,VTV9 HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9_150898738134.jpg
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/playlist.m3u8
 
-VTV,VTV Hyundai HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg
-https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/playlist.m3u8
-
 
 
 VTC,VTC1 HD
@@ -125,10 +121,6 @@ https://livecdn.fptplay.net/hda/htv7hd_hls.smil/playlist.m3u8
 HTV,HTV9 HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_htv9-hd_146841310555.jpg
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/playlist.m3u8
-
-HTV,HTV COOP HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_htv-coop_153320008724.png
-https://livecdn.fptplay.net/sda/htvcoop_hls.smil/chunklist_b2500000.m3u8
 
 
 
@@ -301,7 +293,6 @@ https://static.fptplay.net/static/img/share/channels/icon_channel_channel-v-hd_1
 
 Quốc tế 3,Cartoon Network
 https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png
-https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/playlist.m3u8
 
 Quốc tế 3,Animax
 https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png
