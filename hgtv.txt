@@ -166,37 +166,37 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/playlist.m3u8
 
 
 
-Khác,ANTV HD
+Trong nước,ANTV HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg
 https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/playlist.m3u8
 
-Khác,FNBC HD
+Trong nước,FNBC HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/playlist.m3u8
 
-Khác,Nhân dân HD
+Trong nước,Nhân dân HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
 
-Khác,Quốc hội HD
+Trong nước,Quốc hội HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png
 https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/playlist.m3u8
 
-Khác,QPVN HD
+Trong nước,QPVN HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg
 https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/playlist.m3u8
 
-Khác,TTXVN HD
+Trong nước,TTXVN HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg
 https://livecdn.fptplay.net/sda/ttxvn_hls.smil/playlist.m3u8
 
-Khác,VOV HD
+Trong nước,VOV HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8
 
-Khác,VTV Hyundai HD
+Trong nước,VTV Hyundai HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg
-ttps://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/playlist.m3u8
+https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/playlist.m3u8
 
 
 
@@ -476,7 +476,7 @@ https://livecdn.fptplay.net/sda/dongnai1_hls.smil/playlist.m3u8
 
 Địa phương,Đồng Nai 2 HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-2_156455545067.jpg
-ttps://livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
 
 Địa phương,Đồng Tháp HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg
