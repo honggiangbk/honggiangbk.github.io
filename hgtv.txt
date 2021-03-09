@@ -40,7 +40,7 @@ VTC,VTC1 HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_157355881109.jpg
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/playlist.m3u8
 
-VTC,VTC2 HD
+VTC,VTC2
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
 
@@ -48,39 +48,39 @@ VTC,VTC3 HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png
 https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/playlist.m3u8
 
-VTC,VTC4 HD
+VTC,VTC4 - Yeah1 Family HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8
 
-VTC,VTC5 HD
+VTC,VTC5 - tvBlue
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_150226870197.jpg
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
 
-VTC,VTC6 HD
+VTC,VTC6
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtc6_151489103403.png
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
 
-VTC,VTC7 HD
+VTC,VTC7 - TodayTV
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtc7-todaytv_145673310065.jpg
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
 
-VTC,VTC8 HD
+VTC,VTC8
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_151489105074.png
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
 
-VTC,VTC9 HD
+VTC,VTC9
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtc9_151496638696.png
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/playlist.m3u8
 
-VTC,VTC10 HD
+VTC,VTC10
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_151489106288.png
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/playlist.m3u8
 
-VTC,VTC11 HD
+VTC,VTC11 Thiếu Nhi
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/playlist.m3u8
 
-VTC,VTC12 HD
+VTC,VTC12
 https://static.fptplay.net/static/img/share/channels/icon_channel_vtc12_151489107617.png
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/playlist.m3u8
 
@@ -98,19 +98,19 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
 
 
 
-HTV,HTV1 HD
+HTV,HTV1
 https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
 
-HTV,HTV2 HD
+HTV,HTV2
 https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg
 https://livecdn.fptplay.net/hda/htv2hd_hls.smil/playlist.m3u8
 
-HTV,HTV3 HD
+HTV,HTV3
 https://static.fptplay.net/static/img/share/channels/icon_channel_htv3_145672766359.jpg
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/playlist.m3u8
 
-HTV,HTV4 HD
+HTV,HTV4
 https://static.fptplay.net/static/img/share/channels/icon_channel_htv4_145672776087.jpg
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
 
@@ -124,27 +124,27 @@ https://livecdn.fptplay.net/hda/htv9hd_hls.smil/playlist.m3u8
 
 
 
-HTVC,HTVC Phim HD
+HTVC,HTVC Phim
 https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png
 https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/playlist.m3u8
 
-HTVC,HTVC Du lịch HD
+HTVC,HTVC Du Lịch
 https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg
 https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/playlist.m3u8
 
-HTVC,HTVC Gia đình HD
+HTVC,HTVC Gia Đình
 https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_156420342184.jpg
 https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/playlist.m3u8
 
-HTVC,HTVC Phụ nữ HD
+HTVC,HTVC Phụ Nữ
 https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_150055168062.jpg
 https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/playlist.m3u8
 
-HTVC,HTVC Plus HD
+HTVC,HTVC Plus
 https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png
 https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/playlist.m3u8
 
-HTVC,HTVC Ca nhạc HD
+HTVC,HTVC Ca nhạc
 https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-ca-nhac_159175079096.png
 https://livecdn.fptplay.net/sdb/htvcmusic_hls.smil/playlist.m3u8
 
@@ -156,7 +156,7 @@ HTVC,HTVC Thuần Việt
 https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-sd_150055171588.jpg
 https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/playlist.m3u8
 
-HTVC,HTVC Thể thao HD
+HTVC,HTV Thể thao
 https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_156455550438.jpg
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/playlist.m3u8
 
@@ -170,37 +170,41 @@ Trong nước,FBNC HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/playlist.m3u8
 
-Trong nước,Nhân dân HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg
-https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
-
-Trong nước,Quốc hội HD
+Trong nước,Quốc Hội HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png
 https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/playlist.m3u8
 
-Trong nước,QPVN HD
+Trong nước,Quốc Phòng VN HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg
 https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/playlist.m3u8
 
-Trong nước,TTXVN HD
+Trong nước,Thông Tấn Xã Việt Nam HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg
 https://livecdn.fptplay.net/sda/ttxvn_hls.smil/playlist.m3u8
 
-Trong nước,VOV HD
+Trong nước,Truyền Hình Nhân Dân HD
+https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
+
+Trong nước,VOVTV
 https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8
 
+Trong nước,VTV Hyundai Homeshopping
+https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg
+https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/playlist.m3u8
 
 
-Quốc tế,KBS
+
+Quốc tế,KBS World
 https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
-Quốc tế,NHK
+Quốc tế,NHK World HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
 
-Quốc tế,DW
+Quốc tế,DW HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg
 https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
 
@@ -222,76 +226,67 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/playlist.m3u8
 
 
 
-Quốc tế 2,Blue Ant Entertainment
+Quốc tế 2,Blue Ant Entertainment HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-entertainment_154850587839.jpg
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
 
-Quốc tế 2,Blue Ant Extreme
+Quốc tế 2,Blue Ant Extreme HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-extreme_154850781484.jpg
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
 
-Quốc tế 2,KIX
+Quốc tế 2,KIX HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
 
-Quốc tế 2,AFN
+Quốc tế 2,Asian Food Network HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 
-Quốc tế 2,Da Vinci
+Quốc tế 2,Da Vinci HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png
 https://livecdn.fptplay.net/world/davincihd_hls.smil/playlist.m3u8
 
-Quốc tế 2,Outdoor
+Quốc tế 2,Outdoor Channel HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
 
 
 
-Quốc tế 3,Fox Sports HD
-https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg
-
-Quốc tế 3,Fox Sports 2
-https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg
-
-Quốc tế 3,Fox Sports 3
-https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png
-
-Quốc tế 3,Fox Movies
+Quốc tế 3,FOX Movies HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_fox-movies_152238665778.png
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 
-Quốc tế 3,Fox Family Movies
+Quốc tế 3,FOX Family Movies HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_fox-family-movies_155013312413.jpg
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
 
-Quốc tế 3,AXN
+Quốc tế 3,AXN HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/playlist.m3u8
 
-Quốc tế 3,Warner Bros
+Quốc tế 3,Warner TV HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/playlist.m3u8
 
-Quốc tế 3,Cinema World
+Quốc tế 3,CinemaWorld HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/playlist.m3u8
 
-Quốc tế 3,Fox Life
+Quốc tế 3,FOX Life HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
 
-Quốc tế 3,Fox HD
+Quốc tế 3,FOX HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_fox-hd_152238767588.png
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
 
-Quốc tế 3,Fashion TV
+Quốc tế 3,Fashion TV HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png
 
-Quốc tế 3,[V]HD
+Quốc tế 3,Channel V HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_channel-v-hd_152238787152.png
 
-Quốc tế 3,Cartoon Network
+Quốc tế 3,Cartoon Network HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png
 
 Quốc tế 3,Animax
@@ -301,7 +296,7 @@ Quốc tế 3,Boomerang
 https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
 
-Quốc tế 3,Baby First
+Quốc tế 3,Baby First HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8
 
@@ -311,7 +306,7 @@ https://static.fptplay.net/static/img/share/channels/icon_channel_cbeebies_15233
 Quốc tế 3,CNN
 https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_146581309815.png
 
-Quốc tế 3,BBC Earth
+Quốc tế 3,BBC Earth HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/playlist.m3u8
 
@@ -325,7 +320,7 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 Quốc tế 3,Bloomberg
 https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png
 
-Quốc tế 3,Australia Plus
+Quốc tế 3,ABC Australia
 https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/playlist.m3u8
 
@@ -333,19 +328,19 @@ Quốc tế 3,National Geographic HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_national-geographic-hd_156455553777.jpg
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 
-Quốc tế 3,Discovery
+Quốc tế 3,Discovery HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
 
-Quốc tế 3,Discovery Asia
+Quốc tế 3,Discovery Asia HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 
-Quốc tế 3,Animal Planet
+Quốc tế 3,Animal Planet HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
 
-Quốc tế 3,TLC
+Quốc tế 3,Travel & Living HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
 
@@ -361,11 +356,11 @@ https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/playlist.m3u8
 
 
 
-Địa phương,SCTV2 HD
+Địa phương,SCTV2
 https://static.fptplay.net/static/img/share/channels/icon_channel_sctv-2_155470783649.png
 https://livecdn.fptplay.net/sda/sctv2_hls.smil/playlist.m3u8
 
-Địa phương,An Giang HD
+Địa phương,An Giang
 https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png
 https://livecdn.fptplay.net/sda/angiang_1000.stream/playlist.m3u8
 
@@ -385,11 +380,11 @@ https://livecdn.fptplay.net/sdc/baclieu_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_bac-ninh_156455524327.jpg
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
 
-Địa phương,Bến Tre HD
+Địa phương,Bến Tre
 https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/playlist.m3u8
 
-Địa phương,Bình Định HD
+Địa phương,Bình Định
 https://static.fptplay.net/static/img/share/channels/icon_channel_binh-dinh_145672697062.jpg
 https://livecdn.fptplay.net/sda/binhdinh_hls.smil/playlist.m3u8
 
@@ -401,35 +396,35 @@ https://livecdn.fptplay.net/hda/btv1_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-2_156455531275.jpg
 https://livecdn.fptplay.net/hda/btv2_hls.smil/playlist.m3u8
 
-Địa phương,Bình Dương 4 HD
+Địa phương,iMovie HD
 https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-4-hd_146312577314.png
 https://livecdn.fptplay.net/hda/btv4hd_hls.smil/playlist.m3u8
 
-Địa phương,BTV6 HD
+Địa phương,BTV6
 https://static.fptplay.net/static/img/share/channels/icon_channel_btv6_158573005113.png
 https://livecdn.fptplay.net/sda/btv6_hls.smil/playlist.m3u8
 
-Địa phương,BTV9 HD
+Địa phương,BTV9
 https://static.fptplay.net/static/img/share/channels/icon_channel_btv9_159662306193.jpg
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/playlist.m3u8
 
-Địa phương,BTV11 HD
+Địa phương,BTV11
 https://static.fptplay.net/static/img/share/channels/icon_channel_btv-11_158459383676.png
 https://livecdn.fptplay.net/sda/btv11_hls.smil/playlist.m3u8
 
-Địa phương,NCM HD
+Địa phương,NCM
 https://static.fptplay.net/static/img/share/channels/icon_channel_ncm_145578899016.png
 https://livecdn.fptplay.net/sda/ncm_hls.smil/playlist.m3u8
 
-Địa phương,Bình Phước 1 HD
+Địa phương,Bình Phước 1
 https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg
 https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/playlist.m3u8
 
-Địa phương,Bình Phước 2 HD
+Địa phương,Bình Phước 2 - HOMEtv
 https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/playlist.m3u8
 
-Địa phương,Bình Thuận HD
+Địa phương,Bình Thuận
 https://static.fptplay.net/static/img/share/channels/icon_channel_binh-thuan_145880841033.jpg
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/playlist.m3u8
 
@@ -437,11 +432,11 @@ https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg
 https://livecdn.fptplay.net/sdc/camau_hls.smil/playlist.m3u8
 
-Địa phương,Cần Thơ HD
+Địa phương,Cần Thơ
 https://static.fptplay.net/static/img/share/channels/icon_channel_can-tho_145672728114.jpg
 https://livecdn.fptplay.net/sda/cantho_hls.smil/playlist.m3u8
 
-Địa phương,Cao Bằng HD
+Địa phương,Cao Bằng
 https://static.fptplay.net/static/img/share/channels/icon_channel_cao-bang_149283044994.jpg
 https://livecdn.fptplay.net/sda/caobang_1000.stream/playlist.m3u8
 
@@ -453,11 +448,11 @@ https://livecdn.fptplay.net/sdc/danang1_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg
 https://livecdn.fptplay.net/sdc/danang2_hls.smil/playlist.m3u8
 
-Địa phương,Đắk Lắk HD
+Địa phương,Đắk Lắk
 https://static.fptplay.net/static/img/share/channels/icon_channel_dak-lak_145880969366.jpg
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/playlist.m3u8
 
-Địa phương,Điện Biên HD
+Địa phương,Điện Biên
 https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_156455538188.jpg
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/playlist.m3u8
 
@@ -469,27 +464,27 @@ https://livecdn.fptplay.net/sda/dongnai1_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-2_156455545067.jpg
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
 
-Địa phương,Đồng Tháp HD
+Địa phương,Đồng Tháp
 https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/playlist.m3u8
 
-Địa phương,Gia Lai HD
+Địa phương,Gia Lai
 https://static.fptplay.net/static/img/share/channels/icon_channel_gia-lai_145673242156.jpg
 https://livecdn.fptplay.net/sda/gialai_hls.smil/playlist.m3u8
 
-Địa phương,Hà Giang HD
+Địa phương,Hà Giang
 https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/playlist.m3u8
 
-Địa phương,Hà Nam HD
+Địa phương,Hà Nam
 https://static.fptplay.net/static/img/share/channels/icon_channel_ha-nam_15323304952.jpg
 https://livecdn.fptplay.net/sda/hanam_hls.smil/playlist.m3u8
 
-Địa phương,Hà Tĩnh HD
+Địa phương,Hà Tĩnh
 https://static.fptplay.net/static/img/share/channels/icon_channel_ha-tinh_145881054027.jpg
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/playlist.m3u8
 
-Địa phương,Hải Dương HD
+Địa phương,Hải Dương
 https://static.fptplay.net/static/img/share/channels/icon_channel_hai-duong_145880941298.jpg
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/playlist.m3u8
 
@@ -497,15 +492,15 @@ https://livecdn.fptplay.net/sdc/haiduong_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/playlist.m3u8
 
-Địa phương,Hậu Giang HD
+Địa phương,Hậu Giang
 https://static.fptplay.net/static/img/share/channels/icon_channel_hau-giang_145673319528.jpg
 https://livecdn.fptplay.net/sda/haugiang_hls.smil/playlist.m3u8
 
-Địa phương,Hòa Bình HD
+Địa phương,Hòa Bình
 https://static.fptplay.net/static/img/share/channels/icon_channel_hoa-binh_145681701391.jpg
 https://livecdn.fptplay.net/sda/hoabinh_hls.smil/playlist.m3u8
 
-Địa phương,Hưng Yên HD
+Địa phương,Hưng Yên
 https://static.fptplay.net/static/img/share/channels/icon_channel_hung-yen_145880734258.jpg
 https://livecdn.fptplay.net/sdc/hungyen_2000.stream/playlist.m3u8
 
@@ -513,47 +508,47 @@ https://livecdn.fptplay.net/sdc/hungyen_2000.stream/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_khanh-hoa_145672791198.jpg
 https://livecdn.fptplay.net/sda/khanhhoa_hls.smil/playlist.m3u8
 
-Địa phương,Kiên Giang HD
+Địa phương,Kiên Giang
 https://static.fptplay.net/static/img/share/channels/icon_channel_kien-giang_145880815375.jpg
 https://livecdn.fptplay.net/sda/kiengiang_hls.smil/playlist.m3u8
 
-Địa phương,Kon Tum HD
+Địa phương,Kon Tum
 https://static.fptplay.net/static/img/share/channels/icon_channel_kon-tum_145881138908.jpg
 https://livecdn.fptplay.net/sdc/kontum_hls.smil/playlist.m3u8
 
-Địa phương,Lâm Đồng HD
+Địa phương,Lâm Đồng
 https://static.fptplay.net/static/img/share/channels/icon_channel_lam-dong_145880770362.jpg
 https://livecdn.fptplay.net/sdc/lamdong_hls.smil/playlist.m3u8
 
-Địa phương,Lai Châu HD
+Địa phương,Lai Châu
 https://static.fptplay.net/static/img/share/channels/icon_channel_lai-chau_159849986283.png
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/playlist.m3u8
 
-Địa phương,Lạng Sơn HD
+Địa phương,Lạng Sơn
 https://static.fptplay.net/static/img/share/channels/icon_channel_lang-son_145880895824.jpg
 https://livecdn.fptplay.net/sdc/langson_hls.smil/playlist.m3u8
 
-Địa phương,Lào Cai HD
+Địa phương,Lào Cai
 https://static.fptplay.net/static/img/share/channels/icon_channel_lao-cai_145880951162.jpg
 https://livecdn.fptplay.net/sdc/laocai_hls.smil/playlist.m3u8
 
-Địa phương,Long An HD
+Địa phương,Long An
 https://static.fptplay.net/static/img/share/channels/icon_channel_long-an_145880901975.jpg
 https://livecdn.fptplay.net/sdc/longan_hls.smil/playlist.m3u8
 
-Địa phương,Nam Định HD
+Địa phương,Nam Định
 https://static.fptplay.net/static/img/share/channels/icon_channel_nam-dinh_145880959527.jpg
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/playlist.m3u8
 
-Địa phương,Nghệ An HD
+Địa phương,Nghệ An
 https://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_15426016909.jpg
 https://livecdn.fptplay.net/sda/nghean_hls.smil/playlist.m3u8
 
-Địa phương,Ninh Bình HD
+Địa phương,Ninh Bình
 https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-binh_145672792288.jpg
 https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/playlist.m3u8
 
-Địa phương,Ninh Thuận HD
+Địa phương,Ninh Thuận
 https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-thuan_154260171915.jpg
 https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/playlist.m3u8
 
@@ -569,7 +564,7 @@ https://livecdn.fptplay.net/sda/phuyen_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/playlist.m3u8
 
-Địa phương,Quảng Nam HD
+Địa phương,Quảng Nam
 https://static.fptplay.net/static/img/share/channels/icon_channel_quang-nam_145880919575.jpg
 https://livecdn.fptplay.net/sdc/quangnam_hls.smil/playlist.m3u8
 
@@ -577,23 +572,23 @@ https://livecdn.fptplay.net/sdc/quangnam_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ngai_146362646218.jpg
 https://livecdn.fptplay.net/sda/quangngai_hls.smil/playlist.m3u8
 
-Địa phương,Quảng Ninh 1 HD
+Địa phương,Quảng Ninh 1
 https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-1_145672976024.jpg
 https://livecdn.fptplay.net/sda/quangninh1_hls.smil/playlist.m3u8
 
-Địa phương,Quảng Ninh 3 HD
+Địa phương,Quảng Ninh 3
 https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-3_145672977406.jpg
 https://livecdn.fptplay.net/sda/quangninh3_hls.smil/playlist.m3u8
 
-Địa phương,Quảng Trị HD
+Địa phương,Quảng Trị
 https://static.fptplay.net/static/img/share/channels/icon_channel_quang-tri_150339367566.png
 https://livecdn.fptplay.net/sdc/quangtri_hls.smil/playlist.m3u8
 
-Địa phương,Sóc Trăng HD
+Địa phương,Sóc Trăng
 https://static.fptplay.net/static/img/share/channels/icon_channel_soc-trang_153233048284.jpg
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/playlist.m3u8
 
-Địa phương,Sơn La HD
+Địa phương,Sơn La
 https://static.fptplay.net/static/img/share/channels/icon_channel_son-la_145881052785.jpg
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/playlist.m3u8
 
@@ -601,7 +596,7 @@ https://livecdn.fptplay.net/sdc/sonla_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_tay-ninh-hd_15323305071.jpg
 https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/playlist.m3u8
 
-Địa phương,Thái Bình HD
+Địa phương,Thái Bình
 https://static.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg
 https://livecdn.fptplay.net/sda/thaibinh_hls.smil/playlist.m3u8
 
@@ -609,15 +604,15 @@ https://livecdn.fptplay.net/sda/thaibinh_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_thai-nguyen_156455574521.jpg
 https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/playlist.m3u8
 
-Địa phương,Thanh Hóa HD
+Địa phương,Thanh Hóa
 https://static.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/playlist.m3u8
 
-Địa phương,Thừa Thiên Huế HD
+Địa phương,Thừa Thiên Huế
 https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg
 https://livecdn.fptplay.net/sdc/hue_hls.smil/playlist.m3u8
 
-Địa phương,Tiền Giang HD
+Địa phương,Tiền Giang
 https://static.fptplay.net/static/img/share/channels/icon_channel_tien-giang_145734128144.jpg
 https://livecdn.fptplay.net/sda/tiengiang_hls.smil/playlist.m3u8
 
@@ -645,10 +640,10 @@ https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/playlist.m3u8
 https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/playlist.m3u8
 
-Địa phương,Vĩnh Phúc HD
+Địa phương,Vĩnh Phúc
 https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/playlist.m3u8
 
-Địa phương,Yên Bái HD
+Địa phương,Yên Bái
 https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/playlist.m3u8
